@@ -22,12 +22,11 @@ Supports Frappe version 14 and develop.
 ## Features
 
 1. Intuitive and modern UI/UX
-2. REST architecture
-3. Very lightweight
-4. Mobile First
-5. Guest and Admin view
-6. Dark mode support
-7. All functionalities of a chat app
+2. Very lightweight
+3. Mobile First
+4. Guest and Admin view
+5. Dark mode support
+6. All functionalities of a chat app
 
 ## Installation
 
