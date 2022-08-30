@@ -23,7 +23,7 @@ Supports Frappe version 14 and develop.
 
 1. Modern UI/UX
 2. Very lightweight
-3. Mobile First
+3. Responsive 
 4. Guest and Admin view
 5. Dark mode support
 6. All functionalities of a chat app
