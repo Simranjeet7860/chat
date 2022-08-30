@@ -17,7 +17,7 @@ Supports Frappe version 14 and develop.
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
+
 
 ## Features
 
@@ -72,6 +72,3 @@ Supports Frappe version 14 and develop.
 
    ![Chat Settings](.github/images/chat-settings.png)
 
-## License
-
-MIT
