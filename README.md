@@ -10,7 +10,7 @@
 
 Modern Chat application for the Frappe ecosystem.
 
-Supports Frappe version 13 and develop.
+Supports Frappe version 14 and develop.
 
 ## Table of Contents
 
