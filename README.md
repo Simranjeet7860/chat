@@ -21,7 +21,7 @@ Supports Frappe version 14 and develop.
 
 ## Features
 
-1. Modern UI/UX
+1. Easy Customization
 2. Very lightweight
 3. Responsive 
 4. Guest and Admin view
